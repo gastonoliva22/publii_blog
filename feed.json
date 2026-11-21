@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "milugarcito",
+    "description": "",
+    "home_page_url": "https://gastonoliva22.github.io/publii_blog",
+    "feed_url": "https://gastonoliva22.github.io/publii_blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "gaston"
+    },
+    "items": [
+        {
+            "id": "https://gastonoliva22.github.io/publii_blog/sdfgsfdg/",
+            "url": "https://gastonoliva22.github.io/publii_blog/sdfgsfdg/",
+            "title": "sdfgsfdg",
+            "author": {
+                "name": "gaston"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-21T13:50:24-03:00",
+            "date_modified": "2026-11-21T13:50:24-03:00"
+        }
+    ]
+}

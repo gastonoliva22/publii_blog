@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>milugarcito</title>
+    <link href="https://gastonoliva22.github.io/publii_blog/feed.xml" rel="self" />
+    <link href="https://gastonoliva22.github.io/publii_blog" />
+    <updated>2026-11-21T13:50:24-03:00</updated>
+    <author>
+        <name>gaston</name>
+    </author>
+    <id>https://gastonoliva22.github.io/publii_blog</id>
+
+    <entry>
+        <title>sdfgsfdg</title>
+        <author>
+            <name>gaston</name>
+        </author>
+        <link href="https://gastonoliva22.github.io/publii_blog/sdfgsfdg/"/>
+        <id>https://gastonoliva22.github.io/publii_blog/sdfgsfdg/</id>
+
+        <updated>2026-11-21T13:50:24-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

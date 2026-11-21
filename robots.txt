@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gastonoliva22.github.io/publii_blog/sitemap.xml
