@@ -3,22 +3,50 @@
     <title>milugarcito</title>
     <link href="https://gastonoliva22.github.io/publii_blog/feed.xml" rel="self" />
     <link href="https://gastonoliva22.github.io/publii_blog" />
-    <updated>2026-11-21T13:50:24-03:00</updated>
+    <updated>2026-11-21T14:34:01-03:00</updated>
     <author>
         <name>gaston</name>
     </author>
     <id>https://gastonoliva22.github.io/publii_blog</id>
 
     <entry>
-        <title>sdfgsfdg</title>
+        <title>esto es un segundo texto</title>
         <author>
             <name>gaston</name>
+        </author>
+        <link href="https://gastonoliva22.github.io/publii_blog/esto-es-un-segundo-texto/"/>
+        <id>https://gastonoliva22.github.io/publii_blog/esto-es-un-segundo-texto/</id>
+
+        <updated>2026-11-21T14:33:16-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    un segundo texto de prueba
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>un segundo texto de prueba</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>esto es un texto </title>
+        <author>
+            <name>otro gaston</name>
         </author>
         <link href="https://gastonoliva22.github.io/publii_blog/sdfgsfdg/"/>
         <id>https://gastonoliva22.github.io/publii_blog/sdfgsfdg/</id>
 
         <updated>2026-11-21T13:50:24-03:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                    un texto de prueba
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>un texto de prueba</p>
+            ]]>
+        </content>
     </entry>
 </feed>
